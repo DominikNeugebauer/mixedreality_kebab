@@ -6,6 +6,10 @@ TagManager:
   tags:
   - SamplesInfoPanel
   - Spawnable
+  - duerum
+  - Onion
+  - knife
+  - sauce
   layers:
   - Default
   - TransparentFX

@@ -30,7 +30,7 @@ public class SpawnTomato : MonoBehaviour
         position3.x -= 0.22f;
         Instantiate(spawnObject, position3, transform.rotation);
     }
-
+    
     public void DeleteTomatoesInCollider()
     {
         BoxCollider collider = GetComponent<BoxCollider>();
